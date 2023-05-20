@@ -9,12 +9,11 @@
       "href": "product"
     },
     {
-      "name": "Features",
+      "name": "Avantages",
       "href": "features"
     },
-
     {
-      "name": "Pricing",
+      "name": "About_us",
       "href": "pricing"
     },
     {
@@ -44,7 +43,7 @@
     "title": "Ce que nous faisons",
     "items": [
       {
-        "title": "A plug n play template",
+        "title": "A plug n play ",
         "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
         "img": "animation_500_lhtae98l.gif"
       },
