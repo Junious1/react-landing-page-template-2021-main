@@ -1,7 +1,10 @@
 {
   "name": "react-landing-page-2021",
   "version": "1.0.0",
+  "homepage": "https://junious1.github.io/react-landing-page-template-2021-main",
   "scripts": {
+    "predeploy": " npm run build",
+    "deploy": "gh-pages -d build",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
